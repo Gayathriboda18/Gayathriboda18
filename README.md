@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gayathri Boda</h1>
 <h3 align="center">Learning Stuff</h3>
 
-- 🌱 I’m currently learning  abot **Web technologies**
+- 🌱 I’m currently learning  about **Web technologies**
 
-- 💬 Ask me about **html, css, js**
+- 💬 Ask me about **html, css, js,sql**
 
 - 📫 How to reach me **bodagayathri18@outlook.com**
 
